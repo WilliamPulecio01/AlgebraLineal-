@@ -1,6 +1,19 @@
+# ============================================================
+# INSTALACIÓN DE LIBRERÍAS NECESARIAS
+# ============================================================
+# Antes de ejecutar este programa, es necesario instalar las
+# bibliotecas pandas y numpy.
+#
+# Abrir la terminal o consola y escribir:
+#
+# pip install pandas numpy
+#
+# Si también vas a usar gráficas más adelante:
+#
+# pip install matplotlib
+# ============================================================
 import pandas as pd
 import numpy as np
-
 # ============================================================
 # PROYECTO: APLICACIÓN DEL ÁLGEBRA LINEAL EN SALUD
 # Tema: Predicción de la presión arterial de un estudiante
